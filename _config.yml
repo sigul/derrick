@@ -1,27 +1,27 @@
-title: Derrick Wells – Independent Product Designer
+title: Silvio Gulizia - Life Hacker
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: Writer, journalist and communication consultant. I write about life hacking at vivereintenzionalmente.com and work as head of communication and events at the VC fund Pi Campus.
 baseurl: "/derrick" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Silvio Gulizia
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: Writer and communication consultant.
+  bio: Passionate about life hacking and personal growth
+  email: desk@silviogulizia.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/silviogulizia
   - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
+    link: https://facebook.com/sgulizia
+  - name: LinkedInm
+    link: https://linkedin.com/in/silviogulizia
 
 
 # Comment Section (Disqus)
